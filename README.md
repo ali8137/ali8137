@@ -21,17 +21,19 @@
 
 ### 📌 Featured Projects:
 
-🔹 **[E-Commerce Platform]()**  
+🔹 **[E-Commerce Platform]**  
+***[backend](https://github.com/ali8137/Ecommerce-web-application-backend)***  
+***[backend](https://github.com/ali8137/Ecommerce-web-application-frontend)***  
 *A full-stack e-commerce web application with JWT authentication, product management, and payment integration.*  
 **Tech:** `Spring Boot`, `React.js`, `MySQL`  
 🚀 **Live Demo**: [ecommerce-demo.com](...)  
 
-🔹 **[Chat Application]()**  
+🔹 **[Chat Application](https://github.com/ali8137/chat-application)**  
 *A real-time chat application using Spring WebSocket and STOMP.js.*  
 **Tech:** `Spring WebSocket`, `MongoDB`, `React.js`  
 🚀 **Live Demo**: [chat-app-demo.com](...)  
 
-🔹 **[Job Reviews Microservice]()**  
+🔹 **[Job Reviews Microservice](https://github.com/ali8137/company-jobs-reviews-microservices)**  
 *A microservices-based job review system with API Gateway and RabbitMQ.*  
 **Tech:** `Spring Boot`, `Microservices`, `RabbitMQ`, `Docker`,`PostgreSQL`    
 
@@ -46,7 +48,7 @@
 ---
 
 ### 📫 Contact Me:
-💼 **LinkedIn**: []()  
+💼 **LinkedIn**: [https://www.linkedin.com/in/ali-mezher](https://www.linkedin.com/in/ali-mezher-8a2776254/)  
 📧 **Email**: mezherali07@gmail.com  
 🌐 **Portfolio**: [aliMezher.dev](...)  
 
