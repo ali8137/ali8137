@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Full-Stack Developer | Java | Spring Boot | React.js | MySQL  | PostgreSQL
-💡 Passionate about scalable and efficient web applications  
+💡 Passionate about building scalable and efficient web applications  
 📌 Currently working on a **full-stack e-commerce app**  
 🎯 Open to job opportunities in backend & full-stack development
 </p>
